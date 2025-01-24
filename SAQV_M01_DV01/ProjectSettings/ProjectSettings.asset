@@ -630,7 +630,7 @@ PlayerSettings:
   webGLTemplate: APPLICATION:Default
   webGLAnalyzeBuildSize: 0
   webGLUseEmbeddedResources: 0
-  webGLCompressionFormat: 1
+  webGLCompressionFormat: 2
   webGLWasmArithmeticExceptions: 0
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
@@ -674,8 +674,8 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: SAQV_M01_DV01
-  metroPackageVersion: 
+  metroPackageName: SAQVM01DV01
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -683,7 +683,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: SAQV_M01_DV01
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: SAQV_M01_DV01
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
